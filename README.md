@@ -1,5 +1,10 @@
 # Awesome OpenClaw [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<p align="center">
+  <a href="README.md"><strong>English</strong></a> · <a href="README.ko.md">한국어</a>
+</p>
+
+
 > A curated list of awesome resources, tools, plugins, and guides for [OpenClaw](https://github.com/openclaw-korea/openclaw) — your personal AI assistant 🦞
 
 ## Contents

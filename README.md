@@ -26,7 +26,15 @@
 ## Getting Started
 
 - [Installation Guide](https://github.com/openclaw-korea/openclaw#getting-started) - Quick start setup
-<!-- Add tutorials, video walkthroughs, blog posts here -->
+
+### Tutorials & Guides (Korean)
+
+- [Security Setup for OpenClaw Agent](https://goddaehee.tistory.com/513) - Protect your AI agent from attacks
+- [Pi: Self-extending Architecture Deep Dive](https://goddaehee.tistory.com/512) - Why OpenClaw is smart
+- [ClawHub Skill Marketplace & Moltbook Security](https://goddaehee.tistory.com/511) - Marketplace and security review
+- [Running OpenClaw 24/7](https://goddaehee.tistory.com/510) - Homelab to cloud (VPS) deployment
+- [Ollama Integration Guide](https://goddaehee.tistory.com/509) - Free AI assistant with local LLM
+- [Memory System Deep Dive](https://goddaehee.tistory.com/508) - How OpenClaw remembers conversations
 
 ## Channels & Integrations
 
@@ -60,7 +68,7 @@ Supported messaging channels:
 ## Community
 
 - [GitHub Discussions](https://github.com/openclaw-korea/openclaw/discussions) - Ask questions, share ideas
-<!-- Add Discord, blog, YouTube, social links here -->
+- [goddaehee Blog](https://goddaehee.tistory.com/category/AI/OpenClaw%28%EA%B5%AC%20Moltbotbot%2C%20Clawdbot%29) - Korean tutorials and reviews
 
 ## Contributing
 

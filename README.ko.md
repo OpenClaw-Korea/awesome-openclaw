@@ -28,7 +28,15 @@
 - [설치 가이드](https://github.com/openclaw-korea/openclaw#getting-started) - 빠른 시작
 - [온보딩 위저드](https://docs.openclaw.ai/start/wizard) - 대화형 설정 도우미
 - [FAQ](https://docs.openclaw.ai/start/faq) - 자주 묻는 질문
-<!-- 튜토리얼, 블로그 글 등 추가 -->
+
+### 튜토리얼 & 가이드
+
+- [보안 설정 가이드](https://goddaehee.tistory.com/513) - AI 에이전트 해킹 방지
+- [Pi: Self-extending 아키텍처 분석](https://goddaehee.tistory.com/512) - OpenClaw가 똑똑한 이유
+- [ClawHub 스킬 마켓플레이스 & 보안](https://goddaehee.tistory.com/511) - 마켓플레이스와 보안 리뷰
+- [24시간 가동하기](https://goddaehee.tistory.com/510) - 홈랩부터 클라우드(VPS)까지
+- [Ollama 연동 가이드](https://goddaehee.tistory.com/509) - 로컬 LLM으로 무료 AI 비서
+- [Memory 시스템 분석](https://goddaehee.tistory.com/508) - OpenClaw는 어떻게 대화를 기억할까?
 
 ## 채널 & 연동
 
@@ -63,7 +71,7 @@
 
 - [GitHub Discussions](https://github.com/openclaw-korea/openclaw/discussions) - 질문, 아이디어 공유
 - [Discord](https://discord.gg/clawd) - 실시간 채팅
-<!-- 블로그, YouTube 등 추가 -->
+- [goddaehee 블로그](https://goddaehee.tistory.com/category/AI/OpenClaw%28%EA%B5%AC%20Moltbotbot%2C%20Clawdbot%29) - 한국어 튜토리얼 및 리뷰
 
 ## 기여하기
 
